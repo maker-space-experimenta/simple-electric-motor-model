@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "simple-electric-motor"
+    }
+  },
+  "defaultProject": "simple-electric-motor",
+  "cli": {
+    "analytics": false
+  }
 }
